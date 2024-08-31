@@ -11,6 +11,8 @@ const (
 	Ct2                     = "2"
 	Ct3                     = "3"
 	Ct4                     = "4"
+	Ct5                     = "5"
+	Ct6                     = "6"
 	CtBasic                 = "basic"
 	CtCertificatePEM        = "certificate_pem"
 	CtDisappears            = "disappears"
